@@ -382,6 +382,10 @@ body {
     margin-top: 21px;
 }
 
+.karting-features-background {
+    background-image: url("./resources/img/features.png");
+}
+
 .karting-features {
     display: flex;
 }
